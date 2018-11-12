@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string name="prmt">Choise Country</string>
+
+    <string-array name="arrCountries">
+        <item>Turkey</item>
+        <item>China</item>
+        <item>U.S.A</item>
+        <item>England</item>
+    </string-array>
+
+</resources>
